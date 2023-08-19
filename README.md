@@ -1,6 +1,7 @@
 # Games103-Homework
 
 独立完成的games103作业
+
 作业发布地址：https://games103.games-cn.org/
 
 
@@ -21,6 +22,7 @@
 
 
 作业3：弹性体模拟（左为StVK模型，右为Neo-Hookean模型）
+
 参考网页：https://reference.wolfram.com/language/PDEModels/tutorial/StructuralMechanics/Hyperelasticity.html
 
 ![2023-08-19 10-33-35 00_00_00-00_00_30](https://github.com/DarkSleeper/Games103-Homework/assets/48831197/ff414278-d9a1-4a7c-ba23-01b17d646d34)
